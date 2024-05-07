@@ -1,6 +1,6 @@
 {
   "name": "@zitterorg/corporis-ut-consectetur",
-  "version": "1.0.1",
+  "version": "2.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -36,7 +36,14 @@
     "@zitterorg/quibusdam-sit-qui": "^1.1.3",
     "@zitterorg/reiciendis-minima-excepturi": "^2.0.2",
     "@zitterorg/upgraded-fishstick": "^1.1.3",
-    "@zitterorg/vel-at-tenetur": "^1.0.3"
+    "@zitterorg/vel-at-tenetur": "^1.0.3",
+    "analsorhost-simple-bs": "^1.0.1",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-assi-animation": "^1.0.1",
+    "simple-prompts-web3": "^1.0.1"
   },
   "keywords": [
     "bluebird",
